@@ -101,69 +101,52 @@ Web Application
 # 📸 Screenshots
 
 ## 1. Region Selected
-
 ![Region Selected](screenshots/region-selected.png)
 
 ## 2. Docker Installed
-
-![Docker Installed](screenshots/docker-installed)
+![Docker Installed](screenshots/docker-installed.png)
 
 ## 3. NGINX Installed
-
-![NGINX Installed](screenshots/nginx-installed)
+![NGINX Installed](screenshots/nginx-installed.png)
 
 ## 4. Dockerfile Created
-
-![Dockerfile Created](screenshots/dockerfile-created)
+![Dockerfile Created](screenshots/dockerfile-created.png)
 
 ## 5. Docker Image Built
-
-![Docker Image Built](screenshots/docker-image-built)
+![Docker Image Built](screenshots/docker-image-built.png)
 
 ## 6. Docker Containers
-
-![Docker Containers](screenshots/docker-containers)
+![Docker Containers](screenshots/docker-containers.png)
 
 ## 7. Docker Container Running
-
-![Docker Container Running](screenshots/docker-container-running)
+![Docker Container Running](screenshots/docker-container-running.png)
 
 ## 8. ZIP File Created
-
-![ZIP File Created](screenshots/zipfile-created)
+![ZIP File Created](screenshots/zipfile-created.png)
 
 ## 9. Application Uploaded
-
-![Application Uploaded](screenshots/application-uploaded)
+![Application Uploaded](screenshots/application-uploaded.png)
 
 ## 10. Service Role Created
-
-![Service Role Created](screenshots/service-role-created)
+![Service Role Created](screenshots/service-role-created.png)
 
 ## 11. EC2 Role Created
-
-![EC2 Role Created](screenshots/ec2-role-created)
+![EC2 Role Created](screenshots/ec2-role-created.png)
 
 ## 12. Default VPC Selected
-
-![Default VPC Selected](screenshots/default-vpc-selected)
+![Default VPC Selected](screenshots/default-vpc-selected.png)
 
 ## 13. Environment Created
-
-![Environment Created](screenshots/environment-created)
+![Environment Created](screenshots/environment-created.png)
 
 ## 14. Deployment Successful
-
-![Deployment Successful](screenshots/deployment-successful)
+![Deployment Successful](screenshots/deployment-successful.png)
 
 ## 15. Error with Custom VPC
-
-![Error with Custom VPC](screenshots/error-with-custom-vpc)
+![Error with Custom VPC](screenshots/error-with-custom-vpc.png)
 
 ## 16. Resource Cleanup
-
-![Resource Cleanup](screenshots/resource-cleanup)
-
+![Resource Cleanup](screenshots/resource-cleanup.png)
 
 ---
 
