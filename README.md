@@ -102,7 +102,7 @@ Web Application
 
 ## 1. Region Selected
 
-![Region Selected](screenshots/region-selected)
+![Region Selected](screenshots/region-selected.png)
 
 ## 2. Docker Installed
 
