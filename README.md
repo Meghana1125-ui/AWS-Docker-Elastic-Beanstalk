@@ -43,12 +43,16 @@ The project helped me understand containerization, Docker images, Docker contain
 ## 🏗️ Architecture
 
 User
+
 ↓
 AWS Elastic Beanstalk
+
 ↓
 Docker Container
+
 ↓
 NGINX Web Server
+
 ↓
 Web Application
 
@@ -93,68 +97,52 @@ Web Application
 # 📸 Screenshots
 
 ## 1. Region Selected
-
 ![Region Selected](screenshots/region-selected.png)
 
 ## 2. Docker Installed
-
 ![Docker Installed](screenshots/docker-installed.png)
 
 ## 3. NGINX Installed
-
 ![NGINX Installed](screenshots/nginx-installed.png)
 
 ## 4. Dockerfile Created
-
 ![Dockerfile Created](screenshots/dockerfile-created.png)
 
 ## 5. Docker Image Built
-
-![Docker Image Built](screenshots/docker-image-built.png)
+![Docker Image Built](screenshots/docker image built.png)
 
 ## 6. Docker Containers
-
-![Docker Containers](screenshots/docker-containers.png)
+![Docker Containers](screenshots/docker containers.png)
 
 ## 7. Docker Container Running
-
-![Docker Container Running](screenshots/docker-container-running.png)
+![Docker Container Running](screenshots/docker container running.png)
 
 ## 8. ZIP File Created
-
-![ZIP File Created](screenshots/zipfile-created.png)
+![ZIP File Created](screenshots/zipfile created.png)
 
 ## 9. Application Uploaded
-
-![Application Uploaded](screenshots/application-uploaded.png)
+![Application Uploaded](screenshots/application uploaded.png)
 
 ## 10. Service Role Created
-
-![Service Role Created](screenshots/service-role-created.png)
+![Service Role Created](screenshots/service role created.png)
 
 ## 11. EC2 Role Created
-
-![EC2 Role Created](screenshots/ec2-role-created.png)
+![EC2 Role Created](screenshots/ec2 role created.png)
 
 ## 12. Default VPC Selected
-
-![Default VPC Selected](screenshots/default-vpc-selected.png)
+![Default VPC Selected](screenshots/default vpc selected.png)
 
 ## 13. Environment Created
-
-![Environment Created](screenshots/environment-created.png)
+![Environment Created](screenshots/environment created.png)
 
 ## 14. Deployment Successful
-
-![Deployment Successful](screenshots/deployment-successful.png)
+![Deployment Successful](screenshots/deployment successful.png)
 
 ## 15. Error with Custom VPC
-
-![Custom VPC Error](screenshots/error-with-custom-vpc.png)
+![Error with Custom VPC](screenshots/error with custom vpc.png)
 
 ## 16. Resource Cleanup
-
-![Resource Cleanup](screenshots/resource-cleanup.png)
+![Resource Cleanup](screenshots/resource cleanup.png)
 
 ---
 
