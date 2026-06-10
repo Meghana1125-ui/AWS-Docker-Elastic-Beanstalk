@@ -45,15 +45,19 @@ The project helped me understand containerization, Docker images, Docker contain
 User
 
 ↓
+
 AWS Elastic Beanstalk
 
 ↓
+
 Docker Container
 
 ↓
+
 NGINX Web Server
 
 ↓
+
 Web Application
 
 ---
